@@ -7,5 +7,7 @@ namespace Mss::ConfData {
 	 * @author WorHyako
 	 */
 	class Events {
+	public:
+		Events();
 	};
 }
